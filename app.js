@@ -52,6 +52,6 @@ function findRandomPicture() { // function will assign 3 values to the 3 frames
 
 function checkForDupePhoto() { //function to find three unique photos
   for (var i = 0; i < allFrames.length; i++) {
-    
+
   }
 }
